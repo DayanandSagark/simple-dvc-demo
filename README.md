@@ -40,3 +40,18 @@ git branch -M main
 ```bash
 git push -u origin main
 ```
+```bash
+dvc repro
+```
+```bash
+dvc params diff
+```
+```bash
+dvc scores diff
+```
+```bash
+dvc metrics show
+```
+```bash
+dvc metrics diff
+```

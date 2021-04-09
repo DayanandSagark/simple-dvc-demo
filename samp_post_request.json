@@ -1,0 +1,15 @@
+# sample Api post request for Post man Api call
+
+{
+    "fixed_acidity": 4.6,
+    "volatile_acidity": 0.12,
+    "citric_acid": 0.3,
+    "residual_sugar": 1,
+    "chlorides": 0.5,
+    "free_sulfur_dioxide": 1,
+    "total_sulfur_dioxide": 6,
+    "density": 1,
+    "pH": 3,
+    "sulphates": 1,
+    "alcohol": 8.4
+}

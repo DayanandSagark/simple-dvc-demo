@@ -1,5 +1,5 @@
 #local package install
--e .
+#e .
 
 # Third party package install
 

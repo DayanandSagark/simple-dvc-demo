@@ -1,5 +1,5 @@
 #local package install
-#e .
+-e .
 
 # Third party package install
 
@@ -13,3 +13,5 @@ tox
 flake8
 flask
 gunicorn
+pyqlib
+
